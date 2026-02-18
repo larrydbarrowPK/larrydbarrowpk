@@ -1,3 +1,16 @@
+# Welcome to PowerKram™
+
+PowerKram is a growing platform dedicated to high‑quality practice exams for paid, proctored, industry‑recognized certifications**. Our goal is to support professionals preparing for real certification environments by providing scenario‑based, accurate, and consistently updated exam content.
+
+This GitHub space will serve as a public hub for:
+- Documentation and release notes  
+- Vendor and exam catalog updates  
+- Platform roadmap visibility  
+- Technical references as PowerKram expands  
+
+PowerKram focuses exclusively on certifications that require formal proctoring, ensuring alignment with the exams that carry the highest professional value.
+
+Learn more at: https://powerkram.com  - a Synchronizedsoftware.com brand
 ## Hi there 👋
 
 <!--
